@@ -6,36 +6,19 @@
 ##### My name is Karen Campo and I am a Creative and enthusiastic Front-end Developer from Colombia. Dreaming to contribute to the evolution of art and the humanization of technology 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-[![KarenPhoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenCampo777
-)](https://github.com/KarenCampo777
-/github-readme-stats)
-
-
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]
-
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-[1]: https://twitter.com/KarenCa96752258
-[2]: https://www.linkedin.com/in/karen-campo/
+<img src="https://github-readme-stats.vercel.app/api?username=KarenCampo777&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515    ">
 
 
 
 
-<!--
-**KarenCampo777/KarenCampo777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a web page about my artistic career
 - 🌱 I’m currently learning FlexBox and JavaScript
 - 👯 I’m looking to collaborate on FrontEnd development
-- 🤔 I’m looking for help with social, cultural, artistic, polical and comercial projects
+- 🤔 Iwanto to help with social, cultural, artistic, polical and comercial projects
 - 💬 Ask me about how I dream an ideal world
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: [Twitter @KarenCa96752258](https://mobile.twitter.com/KarenCa96752258), [LinkedIn  - @Karen Campo](https://www.linkedin.com/in/karen-campo/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: 
+-   <img src="https://i.pinimg.com/originals/f9/30/6b/f9306bbb31e5a73d83ead7964c37ecd7.jpg">
+
