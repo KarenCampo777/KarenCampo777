@@ -15,12 +15,12 @@ experience designing and executing test plans and performing exploratory testing
 
 
 
-- 🔭 I’m currently working on a web page about my artistic career
-- 🌱 I’m currently learning FlexBox and JavaScript
+- 🔭 I’m studying QA testing at https://academy.binary-studio.com/en/ 
+- 🌱 I’m currently learning Cypress
+- I have good manage of Postman API testing
 - 👯 I’m looking to collaborate on FrontEnd development
-- 🤔 Iwanto to help with social, cultural, artistic, polical and comercial projects
 - 💬 Ask me about how I dream an ideal world
-- 📫 How to reach me: [Twitter @KarenCa96752258](https://mobile.twitter.com/KarenCa96752258), [LinkedIn  - @Karen Campo](https://www.linkedin.com/in/karen-campo/)
+- 📫 How to reach me: [LinkedIn  - @Karen Campo](https://www.linkedin.com/in/karen-campo/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
 -   <img src="https://i.pinimg.com/originals/f9/30/6b/f9306bbb31e5a73d83ead7964c37ecd7.jpg">
